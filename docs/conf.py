@@ -139,7 +139,7 @@ latex_documents = [
         master_doc,
         "TACETL.tex",
         "TAC ETL Documentation",
-        "Software Group",
+        "SG NewTech",
         "manual",
     ),
 ]
