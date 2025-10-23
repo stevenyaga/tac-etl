@@ -52,7 +52,7 @@ The ETL process is mainly handled by SSIS scripts and .bat files. The deployment
 * Deploy SSIS scripts onto an instance of SQL Server. This allows the SSIS scripts to be executed in 3 ways, viz, manually run directly, run via a SQL job or run using `dtexec utility <https://learn.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility?view=sql-server-ver16>`_. See :ref:`Schedule Package <schedule-package>`:
 * An SQL Agent job should be defined:
 
-   #. **EndToEndETL Job** 
+   #. **TAC ETL Job** 
 
       This job should run **EndToEndETL.dtsx** and should be scheduled to run at 7am every day. This job handles extraction, loading and transformation of data from source systems. The package also runs the Start Of Day (SOD) routine. The SOD routine is responsible for account segmentation and other related activities.
  
