@@ -12,6 +12,7 @@ Welcome to TAC ETL's documentation!
 
    README
    HISTORY
+   introduction
    deployment-setup
    deploy-ssis
    execute-package
