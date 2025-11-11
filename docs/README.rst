@@ -1,10 +1,10 @@
-=================
-NICE Actimize ETL
-=================
+=======
+TAC ETL
+=======
 
-This project documents the process of ETL for the data consumed by NICE Actimize SAM and WLF modules
+This project documents the process of ETL for the data consumed by TAC
 
-The full documentation is hosted at `Read the Docs <https://nice-actimize-etl.readthedocs.io/>`_.
+The full documentation is hosted at `Read the Docs <https://tac-etl.readthedocs.io/>`_.
 
 Run the below command to build Docs
 
