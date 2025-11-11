@@ -14,6 +14,7 @@ Welcome to TAC ETL's documentation!
    HISTORY
    introduction
    deployment-setup
+   create-proxy-account
    deploy-ssis
    execute-package
    schedule-package
