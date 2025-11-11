@@ -11,21 +11,21 @@ Steps
 
 1. Define the service account as a DB user (login) of the SQL Server and also grant the relevant server roles and DB access. 
  
-.. image::  _static/images/create_user.png
+.. image:: _static/images/create_user.PNG
 	:width: 600
 	:alt: Create DB user
 	
-	
+ 
 2. Create a credential
  
-.. image::  _static/images/create_credential.png
+.. image:: _static/images/create_credential.PNG
 	:width: 600
 	:alt: Create Credential
 	
 	
 2. Create proxy account
  
-.. image::  _static/images/create_proxy.png
+.. image:: _static/images/create_proxy.PNG
 	:width: 600
 	:alt: Create Proxy
 	 
